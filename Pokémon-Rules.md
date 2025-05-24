@@ -17,7 +17,7 @@ Pour pouvoir jouer au JCC, il vous faudra un peu de matériel:
 
 ### 1. Le lancer de pièce
 
-Le lancer de pièce va permettre de définir qui commence. Pour cela, demandez à votre adversaire entre **pile ou face**. Le gagnant du lancer de pièce décide qui commence(cf. [Premier tour de chaque joueur](#).
+Le lancer de pièce va permettre de définir qui commence. Pour cela, demandez à votre adversaire entre **pile ou face**. Le gagnant du lancer de pièce décide qui commence(cf. [Premier tour de chaque joueur](#3-premier-tour-de-chaque-joueur).
 
 ### 2. Préparation du terrain
 
