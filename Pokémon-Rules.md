@@ -22,3 +22,33 @@ Le lancer de pièce va permettre de définir qui commence. Pour cela, demandez �
 ### 2. Préparation du terrain
 
 ### 3. Premier tour de chaque joueur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+test.
